@@ -11,9 +11,9 @@ for RG Studios.
 
 ## What We Do
 
-- Build structured digital tools & resources
-- Design clean systems and workflows
-- Focus on long-term quality and maintainability
+- Build structured digital tools & resources  
+- Design clean systems and workflows  
+- Focus on long-term quality and maintainability  
 
 RG Studios values clarity, documentation, and intentional design.
 
@@ -23,7 +23,7 @@ RG Studios values clarity, documentation, and intentional design.
 
 Need help or have a question?
 
-See: [SUPPORT.md](SUPPORT.md)
+👉 See: [SUPPORT.md](SUPPORT.md)
 
 ---
 
@@ -31,7 +31,7 @@ See: [SUPPORT.md](SUPPORT.md)
 
 For inquiries, collaborations, or questions:
 
-See: [CONTACT.md](CONTACT.md)
+👉 See: [CONTACT.md](CONTACT.md)
 
 ---
 
@@ -39,7 +39,7 @@ See: [CONTACT.md](CONTACT.md)
 
 All official RG Studios links are listed here:
 
-See: [LINKS.md](LINKS.md)
+👉 See: [LINKS.md](LINKS.md)
 
 ---
 
