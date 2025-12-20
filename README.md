@@ -1,12 +1,17 @@
-# RG Studios
+<p align="center">
+  <img src="assets/logo.png" alt="RG Studios Logo" width="120">
+</p>
+
+<h1 align="center">RG Studios</h1>
+
+<p align="center">
+  A creative & technical studio focused on high-quality digital resources,
+  structured systems, and clean, maintainable projects.
+</p>
+
+---
 
 ![License](https://img.shields.io/github/license/iamrippon/rg-studios)
-
-RG Studios is a creative & technical studio focused on building  
-**high-quality digital resources**, **structured systems**, and  
-**clean, maintainable projects**.
-
-This repository serves as the **official public information hub** for RG Studios.
 
 ---
 
@@ -22,10 +27,11 @@ This repository serves as the **official public information hub** for RG Studios
 
 ## About
 
-RG Studios operates with a focus on **clarity, structure, and long-term quality**.
+RG Studios operates with a strong focus on **clarity, structure, and long-term quality**.
 
-This repository is not intended to host code projects.  
-Instead, it exists to provide **official information**, **support references**, and **verified links** related to RG Studios.
+This repository is not intended to host production code.  
+It exists as the **official public information hub** for RG Studios — including
+support details, contact information, and verified links.
 
 ---
 
@@ -33,10 +39,10 @@ Instead, it exists to provide **official information**, **support references**, 
 
 - Build structured digital tools & resources  
 - Design clean systems and workflows  
-- Prioritize maintainability and documentation  
+- Focus on maintainability and documentation  
 - Deliver intentional, well-defined projects  
 
-Quality and simplicity are core values at RG Studios.
+Quality and simplicity guide everything at RG Studios.
 
 ---
 
@@ -44,7 +50,7 @@ Quality and simplicity are core values at RG Studios.
 
 Need help or have a question?
 
-👉 See **[SUPPORT.md](SUPPORT.md)** for support information.
+👉 See **[SUPPORT.md](SUPPORT.md)**
 
 ---
 
