@@ -25,7 +25,7 @@ If you discover a potential security issue, please report it **privately**.
 
 ### Preferred Contact Method
 
-📧 Email: contact@rixstongamer.xyz  
+📧 Email: in.rgstudios@gmail.com  
 
 Please include:
 - A clear description of the issue
