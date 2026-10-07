@@ -2,6 +2,9 @@
 
 Below are the official RG Studios links:
 
+- 🕸️ Website
+  https://rg-studios.in/
+
 - 💬 Discord Server  
   https://discord.gg/GFGCn2mMrE
 
@@ -9,7 +12,7 @@ Below are the official RG Studios links:
   https://github.com/iamrippon/rg-studios
 
 - 🤖 RG AutoMod Bot Invite  
-  https://invite-rgautomod.rixstongamer.xyz/
+  https://invite-rgautomod.rg-studios.in/
 
 - 🧑‍💻 GitHub Profile  
   https://github.com/iamrippon
